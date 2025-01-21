@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Smart Helmet',
     description:'A safety system that prevents bike engine start without a helmet and detects drunk driving with high accuracy.',
-    image: 'Helmet.png',
+    image: 'public/Helmet.png',
     tech: ['Arduino', 'Sensors', 'Embedded Systems', 'Circuit Design', 'C Programming', 'IoT (Internet of Things)'],
     github: 'https://github.com/ArunErram/teammates.git',
     achievements: [
@@ -15,7 +15,7 @@ export const projects = [
   {
     title: 'Kinship Verification using CNN and Auto Encoder',
     description: 'A facial recognition system using CNN and Auto Encoders to verify parent-child relationships with 92% accuracy.',
-    image: 'CNN.png',
+    image: 'public/CNN.png',
     tech: ['Python', 'TensorFlow', 'Keras', 'Convolutional Neural Networks (CNN)', 'Auto Encoders', 'Data Preprocessing', 'Kaggle Dataset'],
     github: 'https://github.com/ArunErram/ResearchProblem_Amulgamated_Star_Graphs.git',
     achievements: [
@@ -26,7 +26,7 @@ export const projects = [
   {
     title: 'Depression Detction with EEg Signal',
     description: 'A machine learning model that identifies depression using EEG signals, optimizing algorithms like SVM and XGBoost.',
-    image: 'EEG.png',
+    image: 'public/EEG.png',
     tech: ['Python', 'Machine Learning', 'Scikit-learn', 'SVM', 'XGBoost', 'LGBM', 'EEG Signal Processing', 'Data Analysis'],
     github: 'https://github.com/ArunErram/Supply_Chain_Management_System_Block_Chain.git',
     achievements: [
