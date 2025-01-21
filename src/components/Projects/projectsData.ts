@@ -20,7 +20,7 @@ export const projects = [
     github: 'https://github.com/ArunErram/ResearchProblem_Amulgamated_Star_Graphs.git',
     achievements: [
       'Facial Image Classification: Developed a machine learning model using Convolutional Neural Networks (CNN) and Auto Encoders to verify parent-child relationships from facial images in the Kaggle KinFaceW dataset.',
-      '	High-Accuracy Model: Achieved 92% accuracy in kinship verification, utilizing cutting-edge algorithms to classify blood-related facial pairs.'
+      'High-Accuracy Model: Achieved 92% accuracy in kinship verification, utilizing cutting-edge algorithms to classify blood-related facial pairs.'
     ]
   },
   {
